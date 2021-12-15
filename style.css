@@ -211,11 +211,12 @@ a:hover {
         font-family: 'Poppins', sans-serif;
         padding-top: 120px;
         overflow-x: hidden;
+        max-width: 1250px;
     }
     header {
         background-color: #010101;
         height: 70px;
-        width: 100vw;
+        width: 100%;
         position: absolute;
         top: 0;
         left: 0;
@@ -397,11 +398,12 @@ a:hover {
         font-family: 'Poppins', sans-serif;
         padding-top: 120px;
         overflow-x: hidden;
+        max-width: 1250px;
     }
     header {
         background-color: #010101;
         height: 70px;
-        width: 100vw;
+        width: 100%;
         position: absolute;
         top: 0;
         left: 0;

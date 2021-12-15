@@ -215,7 +215,7 @@ a:hover {
     header {
         background-color: #010101;
         height: 70px;
-        width: 100%;
+        width: 100vw;
         position: absolute;
         top: 0;
         left: 0;
@@ -227,7 +227,7 @@ a:hover {
     footer {
         background-color: #010101;
         height: 300px;
-        width: 105%;
+        width: 105vw;
         position: relative;
         bottom: -6px;
         left: -9px;
@@ -401,7 +401,7 @@ a:hover {
     header {
         background-color: #010101;
         height: 70px;
-        width: 100%;
+        width: 100vw;
         position: absolute;
         top: 0;
         left: 0;
@@ -413,7 +413,7 @@ a:hover {
     footer {
         background-color: #010101;
         height: 300px;
-        width: 105%;
+        width: 105vw;
         position: relative;
         bottom: -6px;
         left: -9px;

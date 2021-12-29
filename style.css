@@ -11,7 +11,7 @@ body {
 header {
     background-color: #010101;
     height: 60px;
-    width: 100%;
+    width: 100vw;
     position: absolute;
     top: 0;
     left: 0;
@@ -218,7 +218,7 @@ a:hover {
     header {
         background-color: #010101;
         height: 70px;
-        width: 100%;
+        width: 101vw;
         position: absolute;
         top: 0;
         left: 0;
